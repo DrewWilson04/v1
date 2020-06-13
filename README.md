@@ -80,6 +80,8 @@ All of the commands in the table below are SFW. If you encounter any problems pl
 |Command|Description|
 |--- |--- |
 |bio|change your bio|
+|curse|change the cursing filter|
+|spam|change the spamming filter|
 |currencyemoji|change the currency emoji in your server|
 |groups|shows all the groups and if they are disabled or enabled|
 |enable|enable a command|
